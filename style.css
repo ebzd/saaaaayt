@@ -271,3 +271,13 @@ course-category {
 .img-card-2 {
     background-image: url(/img/card-2.png);
 }
+.footer {
+    background-color: #f5f6f8;
+    padding: 60px 0;
+}
+.cit {
+    font-weight: 600;
+    font-size: 70px;
+    color: #1a1a1a;
+    padding-bottom: 40px;
+}
