@@ -518,3 +518,11 @@ course-count3 {
         font-size: 24px;
     }
 }
+.btn-raiting img {
+    transition: 0.4s;
+    filter: grayscale(100%);
+}
+.btn-raiting img:hover {
+    filter: grayscale(0%);
+    cursor: pointer;
+}
